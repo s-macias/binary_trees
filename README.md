@@ -1,0 +1,1 @@
+*This is the Binary Trees project's directory*
