@@ -1,6 +1,10 @@
 ## README.md
 
+<<<<<<< HEAD
 Binary Trees
+=======
+You can use the [editor on GitHub](https://github.com/s-macias/binary_trees/edit/master/README.md) to maintain and preview the content for your website in Markdown files
+>>>>>>> bc605950ef30911fa7419523bd00e7c0f892c800
 
 ### General Learning Objectives
 
