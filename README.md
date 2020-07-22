@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## README.md
 
-You can use the [editor on GitHub](https://github.com/s-macias/binary_trees/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Binary Trees
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### General Learning Objectives
 
-### Markdown
+Concepts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What is a binary tree
+What is the difference between a binary tree and a Binary Search Tree
+What is the possible gain in terms of time complexity compared to linked lists
+What are the depth, the height, the size of a binary tree
+What are the different traversal methods to go through a binary tree
+What is a complete, a full, a perfect, a balanced binary tree
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## TASKS
 
-1. Numbered
-2. List
+### 0. New node
+Write a function that creates a binary tree node
 
-**Bold** and _Italic_ and `Code` text
+### 1. Insert left
+Write a function that inserts a node as the left-child of another node
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s-macias/binary_trees/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
